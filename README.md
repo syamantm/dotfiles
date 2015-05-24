@@ -1,1 +1,4 @@
-# dotfiles
+dotfiles
+========
+
+Useful dot files.
